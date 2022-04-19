@@ -48,6 +48,9 @@ h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
     float: left;
 }
 
+img {
+    width: 200px;
+}
 .toptext {
     width: 75%;
     padding-left: 30px;
@@ -57,16 +60,16 @@ h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
 
 p {
     font-family: Century Gothic Black;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 .name {
     font-family: Century Gothic;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 .description {
     padding-top: 150px;
     font-family: Century Gothic;
-    font-size: 20px;
+    font-size: 10px;
 }
